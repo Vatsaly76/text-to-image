@@ -26,10 +26,3 @@ A beautiful and intuitive web app that converts **text prompts into stunning ima
 - `CUDA` (for GPU)
 
 ---
-
-## 🛠️ Setup & Run
-
-### ✅ 1. Install dependencies
-
-```bash
-pip install diffusers transformers accelerate gradio
