@@ -2,7 +2,7 @@
 
 A beautiful and intuitive web app that converts **text prompts into stunning images** using the power of **Stable Diffusion** and **Gradio**. Built to deliver a smooth experience with a sleek dark UI and one-click image download functionality.
 
-![Preview](preview.png)
+<img width="857" height="835" alt="ai_logo" src="https://github.com/user-attachments/assets/b36664bf-5c62-4062-96e1-5e8e438747ac" />
 
 ---
 
